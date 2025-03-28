@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\March29\bin\Debug\net8.0\March29.exe
+C:\Users\DELL\source\repos\March29\bin\Debug\net8.0\March29.deps.json
+C:\Users\DELL\source\repos\March29\bin\Debug\net8.0\March29.runtimeconfig.json
+C:\Users\DELL\source\repos\March29\bin\Debug\net8.0\March29.dll
+C:\Users\DELL\source\repos\March29\bin\Debug\net8.0\March29.pdb
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.AssemblyInfo.cs
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.dll
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\refint\March29.dll
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.pdb
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\March29.genruntimeconfig.cache
+C:\Users\DELL\source\repos\March29\obj\Debug\net8.0\ref\March29.dll
